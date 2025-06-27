@@ -12,8 +12,9 @@ A playful, game-inspired login interface that redirects to a **QR Code** page af
 
 ## 📸 Preview
 
-![Login UI Screenshot](./src/assets/preview.png)
-  ![QR Generation Screenshot](./src/assets/preview2.png)
+![Login UI Screenshot](./src/assets/preview-login.png)
+![Register UI Screenshot](./src/assets/preview-register.png)
+![QR Generation Screenshot](./src/assets/preview2.png)
 
 ## 🚀 Getting Started
 
