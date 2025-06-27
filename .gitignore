@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# Cache
+.cache/
+.next/
+.pnpm-store/
+
+# Testing
+coverage/
+
+# Optional: lock files (if you're not using them)
+# package-lock.json
+# yarn.lock
+
+# Other
+*.log
